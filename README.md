@@ -5,8 +5,7 @@
 - 작은 의미로는 문제가 제시한 규칙에 따라 개체를 이동시키는 알고리즘을 말하며, 큰 의미로는 문제가 요구하는 대로 시행되도록 코드를 구현하는 알고리즘
 
 ### 4방향 탐색 방법
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f33372a4-1e43-45ec-b745-af1f6ec90a53/caa81ca8-76f6-4da4-a426-0a69a7207d1d/Untitled.png)
+![제목 없음](https://github.com/hjgel/Algorithm/assets/143315340/6da270e9-e87c-4413-af95-d7b42d017f6d)
 
 ### 종류
 
